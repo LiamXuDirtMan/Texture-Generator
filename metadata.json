@@ -1,0 +1,7 @@
+{
+  "name": "BlockSmith Texture Forge",
+  "description": "A procedural and AI-powered Minecraft texture generator. Create professional pixel art materials with mathematical shading and Gemini-powered image synthesis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
